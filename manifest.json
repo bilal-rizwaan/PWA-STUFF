@@ -1,0 +1,13 @@
+{
+    "name":"PWA Paractice",
+    "short_name":"Paractice",
+    "background-color":"#000",
+    "theme_color":"#000",
+    "display":"standolone",
+    "orientation":"any",
+    "author":"Bilal_Rizwaan",
+    "icons":[
+        "src":"",
+
+    ]
+}
