@@ -6,8 +6,5 @@
     "display":"standolone",
     "orientation":"any",
     "author":"Bilal_Rizwaan",
-    "icons":[
-        "src":"",
-
-    ]
+    "icons":
 }
