@@ -1,3 +1,30 @@
-h1{
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #000;
+  }
+  body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .link--target {
     text-align: center;
-}
+    color: hotpink;
+    padding: 0 10px;
+    line-height: 1.2;
+    font-size: 8vw;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    box-shadow: inset 0px 0.3px hotpink;
+    transition: 0.8s, box-shadow 0.8s ease-in-out;
+  }
+  .link--target:hover {
+    color: #fff;
+    box-shadow: inset 0px -12rem hotpink;
+  }
+  

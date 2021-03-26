@@ -5,7 +5,6 @@
     "description": "PWA PARACTICE",
     "background_color": "#00aae7",
     "theme_color": "#00aae7",
-    "dir": "ltr",
     "display": "standalone",
     "orientation": "any",
     "icons": [
